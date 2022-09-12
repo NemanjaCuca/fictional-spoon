@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SauceDemo.Test", "SauceDemo.Test\SauceDemo.Test.csproj", "{9576E78C-76F9-4986-874E-5A0E024D7070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPlaceholderApi.Test", "JsonPlaceholderApi.Test\JsonPlaceholderApi.Test.csproj", "{FFF3D152-B8E1-4319-B31C-696DF4DA3066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9576E78C-76F9-4986-874E-5A0E024D7070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9576E78C-76F9-4986-874E-5A0E024D7070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9576E78C-76F9-4986-874E-5A0E024D7070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9576E78C-76F9-4986-874E-5A0E024D7070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF3D152-B8E1-4319-B31C-696DF4DA3066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF3D152-B8E1-4319-B31C-696DF4DA3066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF3D152-B8E1-4319-B31C-696DF4DA3066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF3D152-B8E1-4319-B31C-696DF4DA3066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612AA214-08AB-4346-8B5D-0FC8D4ACF1E3}
+	EndGlobalSection
+EndGlobal
